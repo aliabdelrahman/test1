@@ -1,0 +1,23 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "sali abos",
+  "main": "g.js",
+  "dependencies": {
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliabdelrahman/test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliabdelrahman/test1/issues"
+  },
+  "homepage": "https://github.com/aliabdelrahman/test1#readme"
+}
